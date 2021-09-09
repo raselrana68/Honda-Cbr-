@@ -1,0 +1,110 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* Common CSS/ Utilities */
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header section Css  */
+.header-container{
+    background-color: #264653;
+}
+.btn-login{
+    background-color: #E76F51;
+    color: white;
+    width: 100px;
+    font-size: 16px;
+}
+.header-info{
+    padding:70px 136px;
+}
+.header-bike-info{
+    color: white;
+}
+
+.header-bike-info h6{
+    font-size: 16px;
+}
+.header-bike-info h1{
+    font-size: 48px;
+}
+.header-bike-info p{
+    font-size: 16px;
+}
+.btn-purchase{
+    background-color: #E76F51;
+    color: white;
+    width: 130px;
+    font-size: 16px;
+}
+
+/* Featured section sytles  */
+.bike{
+    filter: grayscale(100%);
+}
+
+/* Latest News Section Design  */
+.btn-read-more{
+    color: #E76F51;
+    width: 130px;
+    font-size: 16px;
+    border: 1px solid #e76f51 ;
+}
+.btn-read-more:hover{
+    background-color: #e76f51;
+    color: white;
+}
+.card-title{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+/* Happy Client Style  */
+.happy-client-text, .latest-news-text, .fb-text{
+    font-size: 48px;
+    font-weight: bold;
+}
+.happy-text{
+    color: black;
+}
+.client-text{
+    color: tomato;
+}
+.img-user{
+    width: 149px;
+    height: 149px;
+    border: 1px solid gray;
+}
+.fa-star.filled{
+    color:#E77C40;
+}
+.fa-star.blank{
+    color:gray;
+}
+
+/* fre-ask-questions */
+.fre-ask-questions{
+    font-size: 48px;
+    font-weight: bold;
+}
+#fre-ask{
+    color: black;
+}
+#que{
+    color:#E77C40 ;
+}
+.collapse-rana{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+/* visit us  */
+.company-name{
+    color: rgb(0, 0, 56);
+}
+.com-information{
+    color: gray;
+}
+.we-are-text{
+    color: rgb(117, 31, 0);
+}
